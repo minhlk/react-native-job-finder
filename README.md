@@ -1,3 +1,6 @@
+## Status
+In-progress
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
@@ -5,8 +8,12 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm install
+npm run start
 ```
+
+
+![Show Case](showcase.png "ShowCase")
 
 ## 📝 Notes
 
